@@ -11,7 +11,9 @@ I'm an freshman at the University of Waterloo studying Software Engineering, but
 To see my code projects, feel free to browse my GitHub profile! My personal website can be found here: https://hannahguo.github.io/ ✌️
 
 ### Projects 📌
-While working full-time in the summer of 2020, I felt like I was wasting my free time... so I came up with the idea to work on mini project sprints, each only about a week long. The idea is to dabble in different languages/libraries, and to try out new things. I'm not sure how long I can keep this up into school, but I think it'll be a fun learning experience!
+While working full-time in the summer of 2020, I felt like I was wasting my free time... so I came up with the idea to work on mini project sprints, each only about a week long. The idea is to dabble in different languages/libraries, and to try out new things. 
+
+I'm not sure how long I can keep this up into school, but I think it'll be a fun learning experience!
 
 
 | Date        | Project Link        | Description  | New Tech |
