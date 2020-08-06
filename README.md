@@ -1,6 +1,6 @@
 # Hello 🙋🏻
 
-Somehow, out of all the page on GitHub and the rest of the Intenet you could be on at this very moment, you are looking at my GitHub profile. Thanks for stopping by!
+Somehow, out of all the page on GitHub and the rest of the Internet that you could be on at this very moment, you are looking at my profile. Thanks for stopping by!
 
 ### About Me
 I'm an freshman at the University of Waterloo studying Software Engineering, but the sidebar of my profile already says that. 
