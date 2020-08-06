@@ -5,7 +5,7 @@ Somehow, out of all the page on GitHub and the rest of the Intenet you could be 
 ### About Me
 I'm an freshman at the University of Waterloo studying Software Engineering, but the sidebar of my profile already says that. 
 
-**To see my code projects, feel free to browse my GitHub profile! My personal website can be found here: https://hannahguo.github.io/ ✌️**
+**To see my code projects, feel free to browse my GitHub profile! My personal website can be found [here](https://hannahguo.github.io/) ✌️!**
 
 Apart from programming, here are some more other neat I like doing.
 
@@ -21,4 +21,4 @@ I'm not sure how long I can keep this up, but I think it'll be a fun learning ex
 | Date        | Project Link        | Description  | New Tech |
 | :-------------: |:-------------:|:-----: | :-----:|
 | August 4th - August 11th       | [Snappans](https://github.com/HannahGuo/Snappans)      | Discord bot to use in servers with my friends  | [Discord.js](https://discord.js.org/) |
-| July 27th - August 3rd | [CSSI 2020](https://glitch.com/@HannahGuo51733/cssi-2020)      | Dedicated to wrapping-up the Google CSSI:Online 2020 program | [P5.js](http://p5js.org/) |
+| July 27th - August 3rd | [CSSI 2020](https://glitch.com/@HannahGuo51733/cssi-2020)      | Dedicated to wrapping-up the Google CSSI:Online 2020 program | [P5.js](http://p5js.org/) | 
