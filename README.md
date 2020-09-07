@@ -1,3 +1,5 @@
+🎯 Currently looking for Summer 2021 SWE opportunities! 🎯
+
 # Hello 🙋🏻
 
 Somehow, out of all the page on GitHub and the rest of the Internet that you could be on at this very moment, you are looking at my profile. Thanks for stopping by!
