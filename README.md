@@ -1,4 +1,4 @@
-🎯 Currently looking for Summer 2021 SWE opportunities! 🎯
+🎯 Currently looking for Winter 2022 SWE opportunities! 🎯
 
 # Hello 🙋🏻
 
@@ -8,6 +8,12 @@ Somehow, out of all the page on GitHub and the rest of the Internet that you cou
 I'm an freshman at the University of Waterloo studying Software Engineering, but the sidebar of my profile already says that. 
 
 **To see my code projects, feel free to browse my GitHub profile! My personal website can be found [here](https://hannahguo.me/) ✌️!**
+
+### My Skillset
+* 🌐 **Web Development:** Javascript (jQuery, Angular, React), HTML/CSS Styling
+* 🔀 **Misc:** Android/Java, Python, Google Cloud Platforms, C/C++
+
+### Misc
 
 Apart from programming, here are some more other neat I like doing.
 
