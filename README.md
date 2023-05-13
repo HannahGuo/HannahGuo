@@ -1,4 +1,4 @@
-🎯 Currently looking for Summer 2023 SWE opportunities! 🎯
+🎯 Currently looking for Winter 2024 SWE opportunities! 🎯
 
 # Hello 🙋🏻
 
