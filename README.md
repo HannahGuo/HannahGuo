@@ -1,4 +1,4 @@
-🎯 Currently looking for 2024 SWE intern opportunities! 🎯
+🎯 Currently looking for 2024 (Winter/Spring/Summer) SWE intern opportunities! 🎯
 
 # Hello 🙋🏻
 
